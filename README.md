@@ -1,3 +1,9 @@
+<div align="right">
+
+**[English](README_EN.md)** | 中文
+
+</div>
+
 <div align="center">
 
 <img src="images/banner.png" alt="掀起巨浪" width="100%"/>
@@ -7,8 +13,6 @@
 [![下载 PDF](https://img.shields.io/badge/📄%20下载%20PDF-中文版-blue?style=for-the-badge)](https://github.com/hisunfei/Great_Wave/raw/main/掀起巨浪-新人看懂行业的16堂课.pdf)
 [![下载 EPUB](https://img.shields.io/badge/📚%20下载%20EPUB-中文版-green?style=for-the-badge)](https://github.com/hisunfei/Great_Wave/raw/main/掀起巨浪-新人看懂行业的16堂课.epub)
 [![Download EPUB](https://img.shields.io/badge/📖%20Download%20EPUB-English-orange?style=for-the-badge)](https://github.com/hisunfei/Great_Wave/raw/main/Making_Waves-16_Lessons_for_Understanding_an_Industry.epub)
-
-[English Version](#english-version) | [中文版](#中文版)
 
 </div>
 
@@ -196,33 +200,6 @@
 **如果这本书对你有帮助，请给它一个 ⭐ Star！**
 
 [⬆️ 返回顶部](#-掀起巨浪新人看懂行业的16堂课)
-
-</div>
-
----
-
-## English Version
-
-### 📖 Making Waves: 16 Lessons for Understanding an Industry
-
-A practical guide for newcomers to understand the underlying logic of any industry, told through 16 stories set on Coral Island.
-
-**Who is this for?**
-- New professionals (1-3 years experience)
-- People considering a career change
-- Product managers, operators, and entrepreneurs
-
-**What you'll learn:**
-- How to analyze value chains and competitive landscapes
-- How to identify real market opportunities vs. report markets
-- How to validate ideas with minimum cost
-- How to make better career choices
-
-[📖 Download English EPUB](https://github.com/hisunfei/Great_Wave/raw/main/Making_Waves-16_Lessons_for_Understanding_an_Industry.epub)
-
----
-
-<div align="center">
 
 **Made with ❤️ by Sun Fei**
 
